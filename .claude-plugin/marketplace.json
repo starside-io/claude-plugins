@@ -1,0 +1,45 @@
+{
+  "name": "starside",
+  "owner": {
+    "name": "starside.io",
+    "url": "https://starside.io"
+  },
+  "metadata": {
+    "description": "Agent tooling from starside.io"
+  },
+  "plugins": [
+    {
+      "name": "neurowire",
+      "source": {
+        "source": "github",
+        "repo": "starside-io/neurowire"
+      },
+      "description": "Clean feeds from any blog, site, RSS, or Atom source: MCP tools for feeds, meshes, journals, and tap authoring, plus skills",
+      "license": "Apache-2.0",
+      "homepage": "https://neurowire.starside.io",
+      "keywords": [
+        "feeds",
+        "rss",
+        "atom",
+        "news",
+        "mcp"
+      ]
+    },
+    {
+      "name": "ghostwriter",
+      "source": {
+        "source": "github",
+        "repo": "starside-io/ghostwriter"
+      },
+      "description": "Makes generated text read as human-written, with none of the punctuation, rhythm, or vocabulary tells",
+      "license": "MIT",
+      "homepage": "https://github.com/starside-io/ghostwriter",
+      "keywords": [
+        "writing",
+        "editing",
+        "prose",
+        "humanize"
+      ]
+    }
+  ]
+}
