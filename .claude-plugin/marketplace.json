@@ -40,6 +40,23 @@
         "prose",
         "humanize"
       ]
+    },
+    {
+      "name": "fellowship",
+      "source": {
+        "source": "github",
+        "repo": "starside-io/fellowship"
+      },
+      "description": "A local-first record of the people in your life: facts, likes and allergies, shared occasions, closeness, and drafts from any model that wait for your yes",
+      "license": "Apache-2.0",
+      "homepage": "https://starside.io/projects/fellowship",
+      "keywords": [
+        "people",
+        "relationships",
+        "local-first",
+        "sqlite",
+        "mcp"
+      ]
     }
   ]
 }
